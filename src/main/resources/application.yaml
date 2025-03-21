@@ -4,7 +4,7 @@ server:
     context-path: /be
 spring:
 
-  datasource:
+  datasource: 
     url: "jdbc:mysql://localhost:3306/be"
     username: "root"
     password: "root"
