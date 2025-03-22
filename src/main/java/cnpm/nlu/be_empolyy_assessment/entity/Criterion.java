@@ -24,4 +24,5 @@ public class Criterion {
 
     String description;
     int maxScore;
+
 }

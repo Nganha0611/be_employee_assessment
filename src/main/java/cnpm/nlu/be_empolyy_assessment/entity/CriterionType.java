@@ -19,6 +19,4 @@ public class CriterionType {
     String id;
     String name;
 
-    @OneToMany(mappedBy = "criterionType")
-    Set<Criterion> criteria = new HashSet<>();
 }
